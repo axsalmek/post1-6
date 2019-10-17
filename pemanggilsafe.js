@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/09/Nitrous-Vs-Turbo-When-Turbo-Should-Not-Be-Used.html"}
-if(x=="2"){xxx="/2019/08/top-5-challenges-in-manufacturing.html"}
-if(x=="3"){xxx="/2019/08/how-to-perform-windshield-repair-and.html"}
-if(x=="4"){xxx="/2019/08/aftermarket-services.html"}
+if(x=="1"){xxx="/2019/10/hot-weather-cause-dry-and-chapped-lips.html"}
+if(x=="2"){xxx="/2019/10/danger-arising-from-vape.html"}
+if(x=="3"){xxx="/2019/10/this-is-way-you-can-do-to-fatten-your.html"}
+if(x=="4"){xxx="/2019/10/danger-of-vehicle-smoke-haze-for-your.html"}
 if(x=="5"){xxx="/2019/08/how-modern-insurance-policy-systems-are.html"}
 if(x=="6"){xxx="/2019/08/usability-accessibility-and.html"}a_to_ve[i].href="https://movietentang.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
