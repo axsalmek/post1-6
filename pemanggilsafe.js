@@ -21,19 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/12/tips-berbelanja-untuk-mobil-sport-bekas.html"}
-if(x=="2"){xxx="/2019/12/how-to-display-photos-that-have-been.html"}
-if(x=="3"){xxx="/2019/12/do-you-need-to-go-to-doctor-if-you-have.html"}
-if(x=="4"){xxx="/2019/12/retirement-planning-ready-in-five-steps.html"}
-if(x=="5"){xxx="/2019/11/free-steps-to-have-profitable-online.html"}
-if(x=="6"){xxx="/2019/11/caring-for-pregnant-to-keep-fetus.html"}
-if(x=="7"){xxx="/2019/11/how-to-implement-healthy-life.html"}
-if(x=="8"){xxx="/2019/11/implementing-healthy-life-for-elderly.html"}
-if(x=="9"){xxx="/2019/11/types-of-food-principle-appropriate-for.html"}
-if(x=="10"){xxx="/2019/11/secured-or-unsecured-which-loans-are.html"}
-if(x=="11"){xxx="/2019/11/learn-more-about-harmful-contents-of.html"}
-if(x=="12"){xxx="/2019/11/do-this-to-maintain-your-babys-health.html"}
-if(x=="13"){xxx="/2019/11/4-types-of-money-investment-recommended.html"}a_to_ve[i].href="https://kyasafel.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2020/12/cara-mengamankan-link.html"}
+if(x=="2"){xxx="/2020/12/bagaimana-menulis-rencana-bisnis-untuk.html"}
+if(x=="3"){xxx="/2020/12/cara-memulai-bisnis-online-di-2020.html"}
+if(x=="4"){xxx="/2020/12/top-bussiness-ideas-for-2020.html"}a_to_ve[i].href="https://kyasafel.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
