@@ -25,7 +25,9 @@ if(x=="1"){xxx="/2020/12/cara-mengamankan-link.html"}
 if(x=="2"){xxx="/2020/12/bagaimana-menulis-rencana-bisnis-untuk.html"}
 if(x=="3"){xxx="/2020/12/cara-memulai-bisnis-online-di-2020.html"}
 if(x=="4"){xxx="/2020/12/top-bussiness-ideas-for-2020.html"}
-if(x=="5"){xxx="/2020/12/cara-menulis-presentasi-rencana-bisnis.html"}a_to_ve[i].href="https://axsalrubiansyah.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2020/12/cara-menulis-presentasi-rencana-bisnis.html"}
+if(x=="6"){xxx="/2020/12/bandingkan-paket-asuransi-kesehatan.html"}
+if(x=="7"){xxx="/2020/12/Bandingkan%20Paket%20Asuransi%20Kesehatan%20untuk%20tahun%202021%20Part%202.html"}a_to_ve[i].href="https://axsalrubiansyah.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
